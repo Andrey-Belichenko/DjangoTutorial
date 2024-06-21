@@ -1,0 +1,5 @@
+venv/
+.idea/
+
+/mysite/db.sqlite3
+/mysite/polls/static/
